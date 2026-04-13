@@ -1,0 +1,24 @@
+# Node.js
+node_modules/
+
+# Environment Variables
+.env
+
+# Uploads
+uploads/
+
+# Logs
+logs/
+*.log
+
+# Dependency directories
+jspm_packages/
+
+# build outputs
+dist/
+build/
+
+# Miscellaneous
+.DS_Store
+*.tgz
+*.gz
